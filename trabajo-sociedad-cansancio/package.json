@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/Joseumes/Filosofia-Social.git",
+  "homepage": "https://github.com/Joseumes/trabajo-sociedad-cansancio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
