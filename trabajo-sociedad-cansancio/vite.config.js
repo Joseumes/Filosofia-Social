@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Filosofia-Social/', // 👈 ¡ES CRUCIAL!
+  base: '/', // 👈 ¡ES CRUCIAL!
   build: {
     outDir: 'dist',
   },
