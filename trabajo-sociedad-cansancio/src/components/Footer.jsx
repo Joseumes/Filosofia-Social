@@ -9,6 +9,7 @@ export default function Footer() {
         <div className="flex justify-center gap-8 text-white/90">
           <span>👨‍💻 José Tun</span>
           <span>👩‍💻 Glenda Marisol Choc</span>
+          <span>👩‍💻 Nuevo 2.0</span>
         </div>
 
         <div>
